@@ -1,6 +1,6 @@
 # Superstore_Sales
 
-# Overview
+## Overview
 This repository contains a Power BI project focused on analyzing and visualizing sales data for the Superstore business. The Superstore dataset is a fictional dataset often used for data analysis and visualization practice. This project aims to provide insights into sales performance, trends, and key metrics for the Superstore.
 
 ## Features
@@ -11,7 +11,7 @@ This repository contains a Power BI project focused on analyzing and visualizing
 - Drill-Down Capability: Drill down into specific data points to get more detailed information.
 - Export and Share: Export data or share the dashboard with colleagues or stakeholders.
 
-# Report Overview
+## Report Overview
 The Power BI report is organized into several sections, each providing different insights into Super Store sales:
 
 Dashboard: A high-level overview of key sales metrics and KPIs.
